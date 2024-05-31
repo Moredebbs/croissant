@@ -9,7 +9,7 @@ footer {
   display: block;
   text-align: center;
 }
-a {
+.footer-link {
   color: brown;
   padding-left: 30px;
 }
